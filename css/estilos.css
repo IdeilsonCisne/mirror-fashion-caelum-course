@@ -1,0 +1,23 @@
+ h1 {
+   background-image: url(img/sobre-background.jpg);
+}
+
+/* h2 {
+  font-family: sans-serif;
+}  */
+
+p {
+  text-align: left;
+  /* line-height: 3px; */
+  letter-spacing: 3px;
+  word-spacing: 5px;
+  text-indent: 30px;
+}
+
+body {
+	font-family: "Arial", "Helvetica", sans-serif;
+  border-color: blue;
+  border-style: outset;
+  border-width: 20px;
+  background: gold;
+}
